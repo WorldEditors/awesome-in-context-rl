@@ -14,6 +14,8 @@ format:
 
 ## Papers
 ### 2025
+- [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303)
+  - Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, Shangtong Zhang
 - [Filtering Learning Histories Enhances In-Context Reinforcement Learning](https://arxiv.org/pdf/2505.15143)
   - Weiqin Chen, Xinjie Zhang, Dharmashankar Subramanian, Santiago Paternain
 - [OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
