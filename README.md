@@ -14,6 +14,8 @@ format:
 
 ## Papers
 ### 2025
+- [In-Context Reinforcement Learning via Communicative World Models](https://arxiv.org/abs/2508.06659)
+  - Fernando Martinez-Lopez, Tao Li, Yingdong Lu, Juntao Chen
 - [Reward Is Enough: LLMs Are In-Context Reinforcement Learners](https://arxiv.org/abs/2506.06303)
   - Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, Shangtong Zhang
 - [Filtering Learning Histories Enhances In-Context Reinforcement Learning](https://arxiv.org/pdf/2505.15143)
