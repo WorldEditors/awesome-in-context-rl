@@ -20,7 +20,7 @@ format:
   - Kefan Song, Amir Moeini, Peng Wang, Lei Gong, Rohan Chandra, Yanjun Qi, Shangtong Zhang
 - [Filtering Learning Histories Enhances In-Context Reinforcement Learning](https://arxiv.org/pdf/2505.15143)
   - Weiqin Chen, Xinjie Zhang, Dharmashankar Subramanian, Santiago Paternain
-- [OmniRL: In-Context Reinforcement Learning by Large-Scale Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
+- [Towards Large-Scale In-Context Reinforcement Learning by Meta-Training in Randomized Worlds](https://arxiv.org/abs/2502.02869)
   - Wang, Fan, Pengtao Shao, Yiming Zhang, Bo Yu, Shaoshan Liu, Ning Ding, Yang Cao, Yu Kang, and Haifeng Wang
 - [A **Survey** of In-Context Reinforcement Learning](https://arxiv.org/abs/2502.07978)
   - Amir Moeini, Jiuqi Wang, Jacob Beck, Ethan Blaser, Shimon Whiteson, Rohan Chandra, Shangtong Zhang
